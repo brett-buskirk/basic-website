@@ -1,2 +1,3 @@
-# basic-website
-Basic front-end website for testing purposes
+# Basic Website for Testing #
+
+This is a basic front-end website for testing purposes.
